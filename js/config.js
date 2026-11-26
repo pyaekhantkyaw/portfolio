@@ -10,7 +10,7 @@ window.PORTFOLIO_CONFIG = {
   cloudflareBeaconToken: '30a46af22d68499fbb1f629179744a00',
   // Add local images after obtaining full professional certificates. Optional public verification URLs.
   certificates: {
-    ibm: { image: '', verifyUrl: '' }, // e.g. images/ibm-professional.jpg
-    powerbi: { image: '', verifyUrl: '' } // e.g. images/powerbi-professional.jpg
-  }
+    ibm: { image: 'images/ibm-certificate.png', verifyUrl: '' },
+    powerbi: { image: 'images/powerbi-certificate.png', verifyUrl: '' }
+}
 };
